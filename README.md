@@ -1,0 +1,1 @@
+npm scripts 生命周期及环境变量的demo
